@@ -19,6 +19,7 @@ Créez une base de donnée mysql avec le nom de votre choix.
 ## Installation de la base de données:
 
 Changez le nom de la base de donnée par celui que vous avez choisi dans le fichier ".env" à la ligne DB_DATABASE.
+
 Si besoin:
 - Changez le nom d'utilisateur dans le fichier ".env" à la ligne DB_USERNAME
 - Changez le mot de passe dans le fichier ".env" à la ligne DB_PASSWORD
