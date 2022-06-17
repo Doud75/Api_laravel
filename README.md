@@ -12,7 +12,10 @@ Vous devez avoir installé:
 - node
 - php
 
-Dans le terminal à la racine du projet, tapez: npm install.
+Dans le terminal à la racine du projet, tapez: composer install <br>
+Dans le terminal à la racine du projet, tapez: npm install <br>
+Dans le terminal à la racine du projet, tapez: cp .env.example .env <br>
+Dans le terminal à la racine du projet, tapez: php artisan key:generate <br>
 
 Créez une base de donnée mysql avec le nom de votre choix.
 
